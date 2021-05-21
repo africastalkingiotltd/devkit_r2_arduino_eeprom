@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+BUILD/core
+BUILD/libraries
+BUILD/preproc
+BUILD/build.options.json
+BUILD/*.bin
+BUILD/*.elf
+BUILD/*.hex
+BUILD/*.map
+BUILD/*.cache
+BUILD/sketch
